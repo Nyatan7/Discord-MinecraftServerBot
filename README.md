@@ -6,7 +6,7 @@ Minecraftプラグインサーバー向けに開発したDiscordBOT。
 ## BOT運用の前提条件
 
 * 空のDiscordBOTの用意
-* Python3系のインストール
+* Python v3系のインストール
 * SpigotやPaperなどのプラグインサーバーの構築
 * サーバー構築に伴うポートの開放
 
