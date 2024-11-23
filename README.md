@@ -1,5 +1,5 @@
 # Discord-MinecraftServerBot
-(https://github.com/user-attachments/assets/f1ece7f4-6a4c-43d4-a751-bf1e7cbc6760)
+![image](https://github.com/user-attachments/assets/f1ece7f4-6a4c-43d4-a751-bf1e7cbc6760)
 Minecraftプラグインサーバー向けに開発したDiscordBOT。
 サーバー運営者の手を使わず、Discordサーバー上で誰もが簡単にMinecraftサーバーの起動、停止、再起動の動作をさせることが可能です。
 
