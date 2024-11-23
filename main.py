@@ -34,7 +34,7 @@ the_end_path  = os.getenv("the_end_path")
 # .jar関連の処理
 
 class server_process:
-    load_dotenv()
+    
     def __init__(self, f_name, maxMemory,minMemory):
         self.server = None
         self.command = ["java", "-server",f'-Xms{minMemory}', f'-Xmx{maxMemory}', "-jar", f_name, "nogui","chcp 65001"]
